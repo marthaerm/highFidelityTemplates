@@ -8,9 +8,9 @@
             "mapImageSrc": "https://hifi-json.s3.us-west-2.amazonaws.com/house-BG-default-WIP_2k.jpg",
             "mapLandmarks": [
                 {
-                    "name": "Pista de baile",
+                    "name": "A bailar! 💃",
                     "positionSU": {
-                        "x": 20,
+                        "x": 21,
                         "y": 24,
                         "z": 0
                     },
