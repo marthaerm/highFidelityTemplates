@@ -10,12 +10,12 @@
                 {
                     "name": "Pista de baile",
                     "positionSU": {
-                        "x": 20,
-                        "y": 20,
+                        "x": 23,
+                        "y": 23,
                         "z": 0
                     },
-                    "radiusSU": 2,
-                    "hexColor": "#000000",
+                    "radiusSU": 0.8,
+                    "hexColor": "#7200B6",
                     "href": "https://w2g.tv/tkatv8mmim2x25fzd6"
                 }
             ]
