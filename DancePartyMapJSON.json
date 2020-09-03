@@ -1,0 +1,27 @@
+{
+    "author": "Martha Rodríguez",
+    "mapsJSONVersion": "v1.1.0",
+    "comments": "An example JSON file that can be imported into High Fidelity. The `mapsJSONVersion` key/value pair should be kept up-to-date with what is in `MapController.js`. Contact the High Fidelity team for assistance.",
+    "maps": [
+        {
+            "mapName": "MEE2020 - Escuadron Éxito Virtual Party",
+            "mapImageSrc": "https://hifi-json.s3.us-west-2.amazonaws.com/house-BG-default-WIP_2k.jpg",
+            "mapLandmarks": [
+                {
+                    "name": "Pista de Baile",
+                    "positionSU": {
+                        "x": 20,
+                        "y": 15,
+                        "z": 0
+                    },
+                    "widthSU": 1,
+                    "heightSU": 1,
+                    "hexColor": "#c634eb",
+                    "textHexColor": "#000000",
+                    "href": "https://w2g.tv/tkatv8mmim2x25fzd6",
+                },
+                
+            ]
+        }
+    ]
+}
