@@ -8,10 +8,10 @@
             "mapImageSrc": "https://hifi-json.s3.us-west-2.amazonaws.com/house-BG-default-WIP_2k.jpg",
             "mapLandmarks": [
                 {
-                    "name": "A bailar! 💃",
+                    "name": "Música 💃",
                     "positionSU": {
-                        "x": 20.5,
-                        "y": 24,
+                        "x": 5,
+                        "y": 24.2,
                         "z": 0
                     },
                     "radiusSU": 0.8,
